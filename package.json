@@ -1,0 +1,14 @@
+{
+  "name": "c2-b9-2-7",
+  "version": "1.0.0",
+  "description": "test task c2-b9-2-7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
